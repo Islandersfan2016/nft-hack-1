@@ -53,7 +53,7 @@ const signable = {
      name: "Exchange",
      version: "2",
      chainId: 4,
-     verifyingContract: "0x43162023C187662684abAF0b211dCCB96fa4eD8a"
+     verifyingContract: ""
   },
 	message: Order,
 	primaryType: "Order"
